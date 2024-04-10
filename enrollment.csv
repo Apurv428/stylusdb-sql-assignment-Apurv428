@@ -3,4 +3,8 @@ student_id,course
 1,Physics
 2,Chemistry
 3,Mathematics
+<<<<<<< HEAD
 5,Biology
+=======
+5,Biology
+>>>>>>> f883eded53067155a36e6332e6da77619cb1304b
