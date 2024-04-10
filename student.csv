@@ -2,8 +2,5 @@ id,name,age
 1,John,30
 2,Jane,25
 3,Bob,22
-<<<<<<< HEAD
 4,Alice,24
-=======
-4,Alice,24
->>>>>>> f883eded53067155a36e6332e6da77619cb1304b
+5,Jane,22
